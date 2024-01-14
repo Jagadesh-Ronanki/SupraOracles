@@ -1,0 +1,12 @@
+[submodule "A1-TokenSale"]
+	path = A1-TokenSale
+	url = ./A1-TokenSale
+[submodule "A2-VotingSystem"]
+	path = A2-VotingSystem
+	url = ./A2-VotingSystem
+[submodule "A3-TokenSwap"]
+	path = A3-TokenSwap
+	url = ./A3-TokenSwap
+[submodule "A4-MultiSigWallet"]
+	path = A4-MultiSigWallet
+	url = ./A4-MultiSigWallet
